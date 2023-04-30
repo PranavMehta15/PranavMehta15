@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF7DA&width=435&lines=Hi+there%2C+fellow+programmers!%F0%9F%91%8B;My+name+is+Pranav+Mehta...;Welcome+to+my+profile!%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="300" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
+<img align="right" alt="coding" width="350" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmehta15&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmehta15" /> </p>
 
