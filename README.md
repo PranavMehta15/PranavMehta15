@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmehta15&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmehta15" /> </p>
 
+- 📚 Currently a 2nd year undergrad student pursuing **BE in Computer Science**
+
 - 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **Full stack web development**
 
 - ⚡ Fun fact **I am a voracious debater**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
