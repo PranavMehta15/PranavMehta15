@@ -1,5 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF7DA&width=435&lines=Hi+there%2C+fellow+programmers!%F0%9F%91%8B;My+name+is+Pranav+Mehta...;Welcome+to+my+profile!%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="330" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
+<br />
+
+<img align="right" alt="coding" width="300" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmehta15&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmehta15" /> </p>
 
@@ -12,11 +15,11 @@
 - ⚡ Fun fact **I am a voracious debater**
 <br />
 
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Playing Now on Spotify 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3oxowncql7cssc9wye5wk7typ&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3oxowncql7cssc9wye5wk7typ&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <br />
 
