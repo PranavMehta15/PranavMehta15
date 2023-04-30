@@ -11,6 +11,13 @@
 
 - ⚡ Fun fact **I am a voracious debater**
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Playing Now on Spotify 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3oxowncql7cssc9wye5wk7typ&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
