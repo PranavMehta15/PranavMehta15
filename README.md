@@ -8,9 +8,9 @@
 
 - 📚 Currently, a 4th year undergrad student pursuing **BE CSE**
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on  **MERN Stack Projects**
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Node.js**
 
 - ⚡ Fun fact **I am a voracious debater**
 <br />
