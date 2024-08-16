@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmehta15&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmehta15" /> </p>
 
-- 📚 Currently, a 2nd year undergrad student pursuing **BE CSE**
+- 📚 Currently, a 4th year undergrad student pursuing **BE CSE**
 
 - 🔭 I’m currently working on **JavaScript**
 
